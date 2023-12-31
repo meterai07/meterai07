@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tengku Muhammad Rafi Rahardiansyah</h1>
-<div style="display: flex;">
-<p>I am an undergraduate in Informatic Engineering with a strong interest in backend development, particularly in the areas of architecture and optimization. Currently, I am focused on learning Go, Express JS, Nest JS and leveraging them to create high-performing and scalable solutions. I am passionate about building robust, efficient, and elegant software and am excited to apply my skills to tackle challenging problems.</p>
-<div>
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=meterai07&show_icons=true&theme=dark&locale=en&layout=compact" alt="meterai07" /></p>
-    
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=meterai07&show_icons=true&theme=dark&locale=en" alt="meterai07" /></p>
-    
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=meterai07&theme=dark" alt="meterai07" /></p> 
-</div>
-</div>
+
+# 💫 About Me:
+An undergraduate in Informatic Engineering with a strong interest in backend development and also frontend development. I am passionate about building robust, efficient, and elegant software and am excited to apply my skills to tackle challenging problems.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tengkumrafir) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meterai07&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meterai07&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meterai07&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
