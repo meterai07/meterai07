@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tengku Muhammad Rafi Rahardiansyah</h1>
 
 # 💫 About Me:
-An undergraduate in Informatic Engineering with a strong interest in backend development and also frontend development. I am passionate about building robust, efficient, and elegant software and am excited to apply my skills to tackle challenging problems.
+Have strong interest in backend development and also frontend development. I am passionate about building robust, efficient, and elegant software and am excited to apply my skills to tackle challenging problems.
 
 
 # 📊 GitHub Stats:
